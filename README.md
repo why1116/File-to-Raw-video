@@ -1,6 +1,5 @@
 # File-to-Raw-video
 Converts (almost any file) into raw video.
-
 ------------------------------------------
 # Intructions
 Make sure Python is installed, if not you can download it here: https://www.python.org/downloads/
